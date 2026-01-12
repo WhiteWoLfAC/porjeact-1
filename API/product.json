@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sincronia Tray",
+      "image": "../img/product1.png",
+      "subtitle": "Porcelain Mini Tray",
+      "price": 115,
+      "material": "Fine Porcelain",
+      "dimensions": "12.7 x 9.8 x 3.6 cm",
+      "finish": "Hand Painted Edges",
+      "Details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut, nam optio. Id, pariatur ipsa odioratione, perspiciatis repellendus consequuntur illo suscipit dicta veritatis minus accusantium repudiandae praesentium deleniti beatae! Quas?"
+    },
+    {
+      "id": 2,
+      "name": "PAVONE Tray",
+      "image": "../img/product2.png",
+      "subtitle": "Porcelain Tray",
+      "price": 215,
+      "material": "Fine Porcelain",
+      "dimensions": "12.7 x 9.8 x 3.6 cm",
+      "finish": "Hand Painted Edges",
+      "Details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut, nam optio. Id, pariatur ipsa odioratione, perspiciatis repellendus consequuntur illo suscipit dicta veritatis minus accusantium repudiandae praesentium deleniti beatae! Quas?"
+    },
+    {
+      "id": 3,
+      "name": "Essenza Tray",
+      "image": "../img/product3.png",
+      "subtitle": "Porcelain Mini Tray",
+      "price": 115,
+      "material": "Fine Porcelain",
+      "dimensions": "12.7 x 9.8 x 3.6 cm",
+      "finish": "Hand Painted Edges",
+      "Details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut, nam optio. Id, pariatur ipsa odioratione, perspiciatis repellendus consequuntur illo suscipit dicta veritatis minus accusantium repudiandae praesentium deleniti beatae! Quas?"
+    },
+    {
+      "id": 4,
+      "name": "OPULENZA Tray",
+      "image": "../img/product4.png",
+      "subtitle": "Porcelain Tray",
+      "price": 215,
+      "material": "Fine Porcelain",
+      "dimensions": "12.7 x 9.8 x 3.6 cm",
+      "finish": "Hand Painted Edges",
+      "Details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut, nam optio. Id, pariatur ipsa odioratione, perspiciatis repellendus consequuntur illo suscipit dicta veritatis minus accusantium repudiandae praesentium deleniti beatae! Quas?"
+    }
+  ]
+}
